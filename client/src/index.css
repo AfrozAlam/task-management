@@ -1,0 +1,12 @@
+body {
+  margin: 1rem;
+}
+.taskList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+.cursorPointer {
+  cursor: pointer;
+}
